@@ -8,7 +8,7 @@ One of the main areas of research in machine learning is the prediction of the p
 
 ## Project structure
 The datasets used in this project is:
-- `KDDTrain+.txt`
+- `CarPrice.csv`
 
 Jupyter Notebook containing the code for data preprocessing and visualization:
 
@@ -16,7 +16,7 @@ Jupyter Notebook containing the code for data preprocessing and visualization:
 
 ## Results
 
-The system analyzes network security and classifies network attacks based on the exploring of inherent patterns in network traffic data.
+<!-- The system analyzes network security and classifies network attacks based on the exploring of inherent patterns in network traffic data. -->
 ____________________________________________________________________
 
 _in progress..._
