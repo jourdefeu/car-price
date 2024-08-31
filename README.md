@@ -37,9 +37,8 @@ _in progress..._
    - Extract relevant features.
    - Group by items and create a new column.
 
-**4. k-Nearest Neighbors (kNN)**
-   - Apply the kNN algorithm.
-   - Convert our table to a 2D matrix, and fill the missing values with zeros.
+**4. Decision Tree Regression Algorithm**
+   - Apply the Decision Tree Regressor algorithm.
 
 ## Results
 
