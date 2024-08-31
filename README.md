@@ -31,7 +31,7 @@ Jupyter Notebook containing the code for data preprocessing and visualization:
 **4. Decision Tree Regression Algorithm**
    - Apply the Decision Tree Regressor algorithm.
 
-_in progress..._
+<img src="https://github.com/jourdefeu/summarize-text/assets/157377780/9c580d9d-aaa3-4ced-b4af-20cdf0d19412" width="45" height="45"> _in progress..._
 
 <!--
 
